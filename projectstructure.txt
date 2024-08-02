@@ -1,8 +1,8 @@
 blog_project/
-    ├── blog/
+    ├── blog2/
     │   ├── migrations/
     │   ├── templates/
-    │   │   └── blog/
+    │   │   └── blog2/
     │   │       ├── base.html
     │   │       ├── home.html
     │   │       ├── post_detail.html
