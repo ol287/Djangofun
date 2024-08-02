@@ -1,0 +1,38 @@
+blog_project/
+    ├── blog/
+    │   ├── migrations/
+    │   ├── templates/
+    │   │   └── blog/
+    │   │       ├── base.html
+    │   │       ├── home.html
+    │   │       ├── post_detail.html
+    │   │       ├── post_form.html
+    │   │       └── confirm_delete.html
+    │   ├── __init__.py
+    │   ├── admin.py
+    │   ├── apps.py
+    │   ├── models.py
+    │   ├── tests.py
+    │   ├── urls.py
+    │   └── views.py
+    ├── users/
+    │   ├── __init__.py
+    │   ├── admin.py
+    │   ├── apps.py
+    │   ├── models.py
+    │   ├── templates/
+    │   │   └── users/
+    │   │       ├── register.html
+    │   │       ├── login.html
+    │   │       └── logout.html
+    │   ├── tests.py
+    │   ├── urls.py
+    │   └── views.py
+    ├── blog_project/
+    │   ├── __init__.py
+    │   ├── asgi.py
+    │   ├── settings.py
+    │   ├── urls.py
+    │   └── wsgi.py
+    ├── db.sqlite3
+    └── manage.py
